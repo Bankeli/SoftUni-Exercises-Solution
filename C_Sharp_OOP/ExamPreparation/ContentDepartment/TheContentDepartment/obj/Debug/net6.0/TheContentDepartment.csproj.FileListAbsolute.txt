@@ -1,0 +1,15 @@
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.exe
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.deps.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.runtimeconfig.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.AssemblyInfo.cs
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.sourcelink.json
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\obj\Debug\net6.0\refint\TheContentDepartment.dll
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.pdb
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.genruntimeconfig.cache
+D:\My WorkFlow\Github\SoftUni\C_Sharp_OOP\ExamPreparation\ContentDepartment\TheContentDepartment\obj\Debug\net6.0\ref\TheContentDepartment.dll
