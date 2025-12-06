@@ -1,0 +1,14 @@
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\bin\Debug\net6.0\MythicLegion.exe
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\bin\Debug\net6.0\MythicLegion.deps.json
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\bin\Debug\net6.0\MythicLegion.runtimeconfig.json
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\bin\Debug\net6.0\MythicLegion.dll
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\bin\Debug\net6.0\MythicLegion.pdb
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\obj\Debug\net6.0\MythicLegion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\obj\Debug\net6.0\MythicLegion.AssemblyInfoInputs.cache
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\obj\Debug\net6.0\MythicLegion.AssemblyInfo.cs
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\obj\Debug\net6.0\MythicLegion.csproj.CoreCompileInputs.cache
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\obj\Debug\net6.0\MythicLegion.dll
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\obj\Debug\net6.0\refint\MythicLegion.dll
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\obj\Debug\net6.0\MythicLegion.pdb
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\obj\Debug\net6.0\MythicLegion.genruntimeconfig.cache
+C:\Users\yukib\Desktop\MythicalLegion\MythicLegion\obj\Debug\net6.0\ref\MythicLegion.dll

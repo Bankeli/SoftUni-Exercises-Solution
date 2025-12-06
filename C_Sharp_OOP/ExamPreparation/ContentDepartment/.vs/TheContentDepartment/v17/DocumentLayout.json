@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\ContentDepartment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exampreparation\\contentdepartment\\thecontentdepartment\\utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exampreparation\\contentdepartment\\thecontentdepartment\\models\\teamlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\teamlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exampreparation\\contentdepartment\\thecontentdepartment\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exampreparation\\contentdepartment\\thecontentdepartment\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exampreparation\\contentdepartment\\thecontentdepartment\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exampreparation\\contentdepartment\\thecontentdepartment\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|solutionrelative:thecontentdepartment\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64D6E5DC-1414-48BC-BC8B-A1B74C4BEE26}|TheContentDepartment\\TheContentDepartment.csproj|d:\\my workflow\\github\\softuni\\c_sharp_oop\\exampreparation\\contentdepartment\\thecontentdepartment\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,50 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TeamLead.cs",
-              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\ContentDepartment\\TheContentDepartment\\Models\\TeamLead.cs",
-              "RelativeDocumentMoniker": "TheContentDepartment\\Models\\TeamLead.cs",
-              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\ContentDepartment\\TheContentDepartment\\Models\\TeamLead.cs",
-              "RelativeToolTip": "TheContentDepartment\\Models\\TeamLead.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T12:39:30.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Actual.txt",
-              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\ContentDepartment\\TheContentDepartment\\Utilities\\Results\\Actual.txt",
-              "RelativeDocumentMoniker": "TheContentDepartment\\Utilities\\Results\\Actual.txt",
-              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\ContentDepartment\\TheContentDepartment\\Utilities\\Results\\Actual.txt",
-              "RelativeToolTip": "TheContentDepartment\\Utilities\\Results\\Actual.txt",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-11-30T12:38:22.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Controller.cs",
-              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\ContentDepartment\\TheContentDepartment\\Core\\Controller.cs",
-              "RelativeDocumentMoniker": "TheContentDepartment\\Core\\Controller.cs",
-              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\ContentDepartment\\TheContentDepartment\\Core\\Controller.cs",
-              "RelativeToolTip": "TheContentDepartment\\Core\\Controller.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwGAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T11:59:50.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "OutputMessages.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\ContentDepartment\\TheContentDepartment\\Utilities\\Messages\\OutputMessages.cs",
               "RelativeDocumentMoniker": "TheContentDepartment\\Utilities\\Messages\\OutputMessages.cs",
@@ -90,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TeamMember.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\ContentDepartment\\TheContentDepartment\\Models\\TeamMember.cs",
               "RelativeDocumentMoniker": "TheContentDepartment\\Models\\TeamMember.cs",
@@ -98,12 +47,11 @@
               "RelativeToolTip": "TheContentDepartment\\Models\\TeamMember.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T11:21:43.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T11:21:43.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Resource.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\ContentDepartment\\TheContentDepartment\\Models\\Resource.cs",
               "RelativeDocumentMoniker": "TheContentDepartment\\Models\\Resource.cs",
@@ -111,8 +59,7 @@
               "RelativeToolTip": "TheContentDepartment\\Models\\Resource.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T11:09:21.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T11:09:21.525Z"
             }
           ]
         }

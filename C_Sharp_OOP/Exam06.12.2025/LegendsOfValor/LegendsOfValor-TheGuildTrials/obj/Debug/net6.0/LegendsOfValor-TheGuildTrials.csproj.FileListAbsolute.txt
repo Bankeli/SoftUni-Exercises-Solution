@@ -1,0 +1,14 @@
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.exe
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.deps.json
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.runtimeconfig.json
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.dll
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.pdb
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.AssemblyInfoInputs.cache
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.AssemblyInfo.cs
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.csproj.CoreCompileInputs.cache
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.dll
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\refint\LegendsOfValor-TheGuildTrials.dll
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.pdb
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.genruntimeconfig.cache
+C:\Users\yukib\Desktop\LegendsOfValor\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\ref\LegendsOfValor-TheGuildTrials.dll

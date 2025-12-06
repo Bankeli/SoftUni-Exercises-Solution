@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TZYi1AuP2JA=",
+  "dgSpecHash": "2RgWDhWpOmI=",
   "success": true,
-  "projectFilePath": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\CarDealership\\CarDealership.csproj",
+  "projectFilePath": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\CarDealer\\CarDealership\\CarDealership.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yukib\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\yukib\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",

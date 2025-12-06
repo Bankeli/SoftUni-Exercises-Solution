@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\ExamPreparation\\FootballManager\\FootballManager\\FootballManager.csproj",
+      "projectUniqueName": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\FootballManager\\FootballManager\\FootballManager.csproj",
       "projectName": "FootballManager",
-      "projectPath": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\ExamPreparation\\FootballManager\\FootballManager\\FootballManager.csproj",
+      "projectPath": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\FootballManager\\FootballManager\\FootballManager.csproj",
       "packagesPath": "C:\\Users\\yukib\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\ExamPreparation\\FootballManager\\FootballManager\\obj\\",
+      "outputPath": "D:\\My WorkFlow\\Github\\SoftUni\\C_Sharp_OOP\\ExamPreparation\\FootballManager\\FootballManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,7 +91,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\RuntimeIdentifierGraph.json"
       }
     }
   }
