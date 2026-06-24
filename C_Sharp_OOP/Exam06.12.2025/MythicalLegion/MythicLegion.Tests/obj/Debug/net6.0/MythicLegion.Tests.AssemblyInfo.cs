@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MythicLegion.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0750baa5655636f8fa856f49e15be5a1fa92423")]
 [assembly: System.Reflection.AssemblyProductAttribute("MythicLegion.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MythicLegion.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

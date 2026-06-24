@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yukib\\Desktop\\MythicalLegion\\MythicLegion\\MythicLegion.csproj": {}
+    "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Exam06.12.2025\\MythicalLegion\\MythicLegion\\MythicLegion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yukib\\Desktop\\MythicalLegion\\MythicLegion\\MythicLegion.csproj": {
+    "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Exam06.12.2025\\MythicalLegion\\MythicLegion\\MythicLegion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yukib\\Desktop\\MythicalLegion\\MythicLegion\\MythicLegion.csproj",
+        "projectUniqueName": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Exam06.12.2025\\MythicalLegion\\MythicLegion\\MythicLegion.csproj",
         "projectName": "MythicLegion",
-        "projectPath": "C:\\Users\\yukib\\Desktop\\MythicalLegion\\MythicLegion\\MythicLegion.csproj",
+        "projectPath": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Exam06.12.2025\\MythicalLegion\\MythicLegion\\MythicLegion.csproj",
         "packagesPath": "C:\\Users\\yukib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yukib\\Desktop\\MythicalLegion\\MythicLegion\\obj\\",
+        "outputPath": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Exam06.12.2025\\MythicalLegion\\MythicLegion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "afEknfyQYMk=",
+  "dgSpecHash": "+deAGfJneZs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yukib\\Desktop\\LegendsOfValor\\LegendsOfValor-TheGuildTrials\\LegendsOfValor-TheGuildTrials.csproj",
+  "projectFilePath": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Exam06.12.2025\\LegendsOfValor\\LegendsOfValor-TheGuildTrials\\LegendsOfValor-TheGuildTrials.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yukib\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\yukib\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",

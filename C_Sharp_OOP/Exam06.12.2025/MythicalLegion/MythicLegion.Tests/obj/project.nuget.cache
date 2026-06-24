@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+QeTeVMDCMI=",
+  "dgSpecHash": "ymuVGn2zI+g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yukib\\Desktop\\MythicalLegion\\MythicLegion.Tests\\MythicLegion.Tests.csproj",
+  "projectFilePath": "D:\\Projects\\Github\\SoftUni-\\C_Sharp_OOP\\Exam06.12.2025\\MythicalLegion\\MythicLegion.Tests\\MythicLegion.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yukib\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\yukib\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
