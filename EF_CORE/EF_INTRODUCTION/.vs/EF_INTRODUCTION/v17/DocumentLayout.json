@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\",
+  "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\projects\\github\\softuni-\\ef_core\\ef_introduction\\softuni\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\my workflow\\github\\softuni\\ef_core\\ef_introduction\\softuni\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\projects\\github\\softuni-\\ef_core\\ef_introduction\\softuni\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\my workflow\\github\\softuni\\ef_core\\ef_introduction\\softuni\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\projects\\github\\softuni-\\ef_core\\ef_introduction\\softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\projects\\github\\softuni-\\ef_core\\ef_introduction\\softuni\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\my workflow\\github\\softuni\\ef_core\\ef_introduction\\softuni\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\projects\\github\\softuni-\\ef_core\\ef_introduction\\softuni\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\my workflow\\github\\softuni\\ef_core\\ef_introduction\\softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\my workflow\\github\\softuni\\ef_core\\ef_introduction\\softuni\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\projects\\github\\softuni-\\ef_core\\ef_introduction\\softuni\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\my workflow\\github\\softuni\\ef_core\\ef_introduction\\softuni\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\projects\\github\\softuni-\\ef_core\\ef_introduction\\softuni\\softuni.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\my workflow\\github\\softuni\\ef_core\\ef_introduction\\softuni\\softuni.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\softuni.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\projects\\github\\softuni-\\ef_core\\ef_introduction\\softuni\\softuni.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|d:\\my workflow\\github\\softuni\\ef_core\\ef_introduction\\softuni\\softuni.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{65FEE14A-0F9E-4E61-B062-257FD59CCA61}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\softuni.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -55,9 +55,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "SoftUni",
-              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\SoftUni.csproj",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\SoftUni.csproj",
               "RelativeDocumentMoniker": "SoftUni\\SoftUni.csproj",
-              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\SoftUni.csproj",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\SoftUni.csproj",
               "RelativeToolTip": "SoftUni\\SoftUni.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-06-24T16:45:55.264Z"
@@ -66,9 +66,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "SoftUni.csproj",
-              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\SoftUni.csproj",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\SoftUni.csproj",
               "RelativeDocumentMoniker": "SoftUni\\SoftUni.csproj",
-              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\SoftUni.csproj",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\SoftUni.csproj",
               "RelativeToolTip": "SoftUni\\SoftUni.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -78,33 +78,35 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SoftUniContext.cs",
-              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Data\\SoftUniContext.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Data\\SoftUniContext.cs",
               "RelativeDocumentMoniker": "SoftUni\\Data\\SoftUniContext.cs",
-              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Data\\SoftUniContext.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Data\\SoftUniContext.cs",
               "RelativeToolTip": "SoftUni\\Data\\SoftUniContext.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAswCMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAkwCQAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T16:23:18.813Z"
+              "WhenOpened": "2026-06-24T16:23:18.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Project.cs",
-              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\Project.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\Project.cs",
               "RelativeDocumentMoniker": "SoftUni\\Models\\Project.cs",
-              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\Project.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\Project.cs",
               "RelativeToolTip": "SoftUni\\Models\\Project.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T16:21:51.234Z"
+              "WhenOpened": "2026-06-24T16:21:51.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "EmployeeProject.cs",
-              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\EmployeeProject.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\EmployeeProject.cs",
               "RelativeDocumentMoniker": "SoftUni\\Models\\EmployeeProject.cs",
-              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\EmployeeProject.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\EmployeeProject.cs",
               "RelativeToolTip": "SoftUni\\Models\\EmployeeProject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,23 +114,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\Employee.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "SoftUni\\Models\\Employee.cs",
-              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\Employee.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\Employee.cs",
               "RelativeToolTip": "SoftUni\\Models\\Employee.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA9wCQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T15:59:09.763Z"
+              "WhenOpened": "2026-06-24T15:59:09.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Address.cs",
-              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\Address.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\Address.cs",
               "RelativeDocumentMoniker": "SoftUni\\Models\\Address.cs",
-              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\Address.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\Models\\Address.cs",
               "RelativeToolTip": "SoftUni\\Models\\Address.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,9 +142,9 @@
               "DocumentIndex": 8,
               "Title": "SoftUniContext.cs",
               "DocumentMoniker": "D:\\Projects\\Github\\EchoesOfTheFallenRealm\\EF_INTRODUCTION\\SoftUni\\Data\\Models\\SoftUniContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\EchoesOfTheFallenRealm\\EF_INTRODUCTION\\SoftUni\\Data\\Models\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Projects\\Github\\EchoesOfTheFallenRealm\\EF_INTRODUCTION\\SoftUni\\Data\\Models\\SoftUniContext.cs",
               "ToolTip": "D:\\Projects\\Github\\EchoesOfTheFallenRealm\\EF_INTRODUCTION\\SoftUni\\Data\\Models\\SoftUniContext.cs",
-              "RelativeToolTip": "..\\..\\..\\EchoesOfTheFallenRealm\\EF_INTRODUCTION\\SoftUni\\Data\\Models\\SoftUniContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Projects\\Github\\EchoesOfTheFallenRealm\\EF_INTRODUCTION\\SoftUni\\Data\\Models\\SoftUniContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-24T15:50:27.754Z"
@@ -150,11 +153,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\StartUp.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\StartUp.cs",
               "RelativeDocumentMoniker": "SoftUni\\StartUp.cs",
-              "ToolTip": "D:\\Projects\\Github\\SoftUni-\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\StartUp.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\StartUp.cs",
               "RelativeToolTip": "SoftUni\\StartUp.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAAAIwAAABtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-24T15:37:10.696Z",
               "EditorCaption": ""

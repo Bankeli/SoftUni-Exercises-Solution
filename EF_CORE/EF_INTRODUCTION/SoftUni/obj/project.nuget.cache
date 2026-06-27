@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kTKHGKPgCf8=",
+  "dgSpecHash": "M61Y1IjVFl8=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Github\\EchoesOfTheFallenRealm\\EF_INTRODUCTION\\SoftUni\\SoftUni.csproj",
+  "projectFilePath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\EF_INTRODUCTION\\SoftUni\\SoftUni.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yukib\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\yukib\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
