@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F239C98-8709-4E71-9801-3D171DD3F3A3}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|d:\\my workflow\\github\\softuni\\ef_core\\p01_hospitaldatabase\\p01_hospitaldatabase.data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F239C98-8709-4E71-9801-3D171DD3F3A3}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabase.data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35C8C71-6C74-4A82-BC55-450660195E19}|P01_HospitalDatabase\\P01_HospitalDatabase.csproj|d:\\my workflow\\github\\softuni\\ef_core\\p01_hospitaldatabase\\p01_hospitaldatabase\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35C8C71-6C74-4A82-BC55-450660195E19}|P01_HospitalDatabase\\P01_HospitalDatabase.csproj|solutionrelative:p01_hospitaldatabase\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B81A44B-988E-488F-8D4A-71F9F9663775}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|d:\\my workflow\\github\\softuni\\ef_core\\p01_hospitaldatabase\\p01_hospitaldatabase.data.models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B81A44B-988E-488F-8D4A-71F9F9663775}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabase.data.models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B81A44B-988E-488F-8D4A-71F9F9663775}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|d:\\my workflow\\github\\softuni\\ef_core\\p01_hospitaldatabase\\p01_hospitaldatabase.data.models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B81A44B-988E-488F-8D4A-71F9F9663775}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabase.data.models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B81A44B-988E-488F-8D4A-71F9F9663775}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|d:\\my workflow\\github\\softuni\\ef_core\\p01_hospitaldatabase\\p01_hospitaldatabase.data.models\\patientmedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B81A44B-988E-488F-8D4A-71F9F9663775}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabase.data.models\\patientmedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B81A44B-988E-488F-8D4A-71F9F9663775}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|d:\\my workflow\\github\\softuni\\ef_core\\p01_hospitaldatabase\\p01_hospitaldatabase.data.models\\visitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B81A44B-988E-488F-8D4A-71F9F9663775}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabase.data.models\\visitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B81A44B-988E-488F-8D4A-71F9F9663775}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|d:\\my workflow\\github\\softuni\\ef_core\\p01_hospitaldatabase\\p01_hospitaldatabase.data.models\\diagnose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B81A44B-988E-488F-8D4A-71F9F9663775}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabase.data.models\\diagnose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data\\HospitalContext.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\HospitalContext.cs*",
+              "RelativeToolTip": "P01_HospitalDatabase.Data\\HospitalContext.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T11:05:26.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientMedicament.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\PatientMedicament.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data.Models\\PatientMedicament.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\PatientMedicament.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data.Models\\PatientMedicament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T10:56:54.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medicament.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Medicament.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data.Models\\Medicament.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Medicament.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data.Models\\Medicament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T10:55:38.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Diagnose.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Diagnose.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data.Models\\Diagnose.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Diagnose.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data.Models\\Diagnose.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T10:52:29.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Visitation.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Visitation.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data.Models\\Visitation.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Visitation.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data.Models\\Visitation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T10:43:47.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Patient.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase.Data.Models\\Patient.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data.Models\\Patient.cs",
+              "RelativeToolTip": "P01_HospitalDatabase.Data.Models\\Patient.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T10:39:12.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase\\StartUp.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabase\\StartUp.cs",
+              "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase\\StartUp.cs",
+              "RelativeToolTip": "P01_HospitalDatabase\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T10:38:10.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
