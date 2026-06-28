@@ -20,6 +20,7 @@ namespace P01_HospitalDatabase.Data
         }
 
         public virtual DbSet<Diagnose> Diagnoses { get; set; } = null!;
+        public virtual DbSet<Doctor> Doctors { get; set; } = null!;
         public virtual DbSet<Medicament> Medicaments { get; set; } = null!;
         public virtual DbSet<Patient> Patients { get; set; } = null!;
         public virtual DbSet<PatientMedicament> PatientsMedicaments { get; set; } = null!;
@@ -29,7 +30,7 @@ namespace P01_HospitalDatabase.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=BANKELI\\SQLEXPRESS;Database=StudentSystem;Trusted_Connection=True;Encrypt=False;");
+                optionsBuilder.UseSqlServer("Server=BANKELI\\SQLEXPRESS;Database=HospitalDatabase;Trusted_Connection=True;Encrypt=False;");
             }
             base.OnConfiguring(optionsBuilder);
         }

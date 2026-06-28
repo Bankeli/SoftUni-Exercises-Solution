@@ -18,7 +18,7 @@ namespace P01_HospitalDatabase.Data.Models
         [Unicode(true)]
         public string Name { get; set; } = null!;
 
-        public ICollection<PatientMedicament> Prescriptions
+        public ICollection<PatientMedicament> Prescriptions { get; set; }
            = new HashSet<PatientMedicament>();
     }
 }

@@ -35,7 +35,7 @@ namespace P01_HospitalDatabase.Data.Models
 
         public bool HasInsurance { get; set; }
 
-        public ICollection<PatientMedicament> Prescriptions 
+        public ICollection<PatientMedicament> Prescriptions { get; set; }
             = new HashSet<PatientMedicament>();
 
         public ICollection<Diagnose> Diagnoses { get; set; } 

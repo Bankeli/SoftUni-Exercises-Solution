@@ -20,8 +20,8 @@ namespace P01_HospitalDatabase.Data.Models
         [Unicode(true)]
         public string Comments { get; set; } = null!;
 
-        //public int DoctorId { get; set; }
-        //public 
+        public int DoctorId { get; set; }
+        public Doctor Doctor { get; set; } = null!;
 
         public int PatientId { get; set; }
         public Patient Patient { get; set; } = null!;

@@ -1,0 +1,13 @@
+D:\My WorkFlow\Github\SoftUni\EF_CORE\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\bin\Debug\net6.0\P01_HospitalDatabase.Data.Models.deps.json
+D:\My WorkFlow\Github\SoftUni\EF_CORE\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\bin\Debug\net6.0\P01_HospitalDatabase.Data.Models.dll
+D:\My WorkFlow\Github\SoftUni\EF_CORE\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\bin\Debug\net6.0\P01_HospitalDatabase.Data.Models.pdb
+D:\My WorkFlow\Github\SoftUni\EF_CORE\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net6.0\P01_HospitalDatabase.Data.Models.csproj.AssemblyReference.cache
+D:\My WorkFlow\Github\SoftUni\EF_CORE\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net6.0\P01_HospitalDatabase.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\My WorkFlow\Github\SoftUni\EF_CORE\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net6.0\P01_HospitalDatabase.Data.Models.AssemblyInfoInputs.cache
+D:\My WorkFlow\Github\SoftUni\EF_CORE\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net6.0\P01_HospitalDatabase.Data.Models.AssemblyInfo.cs
+D:\My WorkFlow\Github\SoftUni\EF_CORE\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net6.0\P01_HospitalDatabase.Data.Models.csproj.CoreCompileInputs.cache
+D:\My WorkFlow\Github\SoftUni\EF_CORE\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net6.0\P01_HospitalDatabase.Data.Models.sourcelink.json
+D:\My WorkFlow\Github\SoftUni\EF_CORE\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net6.0\P01_HospitalDatabase.Data.Models.dll
+D:\My WorkFlow\Github\SoftUni\EF_CORE\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net6.0\refint\P01_HospitalDatabase.Data.Models.dll
+D:\My WorkFlow\Github\SoftUni\EF_CORE\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net6.0\P01_HospitalDatabase.Data.Models.pdb
+D:\My WorkFlow\Github\SoftUni\EF_CORE\P01_HospitalDatabase\P01_HospitalDatabase.Data.Models\obj\Debug\net6.0\ref\P01_HospitalDatabase.Data.Models.dll

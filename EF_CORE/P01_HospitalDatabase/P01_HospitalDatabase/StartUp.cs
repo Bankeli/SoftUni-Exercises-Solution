@@ -1,4 +1,5 @@
-﻿using P01_HospitalDatabase.Data;
+using P01_HospitalDatabase.Core;
+using P01_HospitalDatabase.Data;
 
 namespace P01_HospitalDatabase
 {
@@ -6,21 +7,17 @@ namespace P01_HospitalDatabase
     {
         static void Main(string[] args)
         {
-
             try
             {
-            using var dbContext = new HospitalContext();
-
-                dbContext.Database.EnsureDeleted();
-
+                using var dbContext = new HospitalContext();
                 dbContext.Database.EnsureCreated();
 
-                Console.WriteLine("DB is created successfully");
-
+                var engine = new Engine(dbContext);
+                engine.Run();
             }
             catch (Exception e)
             {
-                Console.WriteLine(e);
+                System.Console.WriteLine(e);
                 throw;
             }
         }
