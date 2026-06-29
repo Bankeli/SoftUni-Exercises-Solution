@@ -30,7 +30,7 @@ namespace P01_HospitalDatabase.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=BANKELI\\SQLEXPRESS;Database=HospitalDatabase;Trusted_Connection=True;Encrypt=False;");
+                optionsBuilder.UseSqlServer("Server=********;Database=HospitalDatabase;Trusted_Connection=True;Encrypt=False;");
             }
             base.OnConfiguring(optionsBuilder);
         }

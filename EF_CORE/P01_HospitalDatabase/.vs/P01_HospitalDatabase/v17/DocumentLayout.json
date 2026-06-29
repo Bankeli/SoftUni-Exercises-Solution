@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F239C98-8709-4E71-9801-3D171DD3F3A3}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|d:\\my workflow\\github\\softuni\\ef_core\\p01_hospitaldatabase\\p01_hospitaldatabase.data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F239C98-8709-4E71-9801-3D171DD3F3A3}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabase.data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D35C8C71-6C74-4A82-BC55-450660195E19}|P01_HospitalDatabase\\P01_HospitalDatabase.csproj|d:\\my workflow\\github\\softuni\\ef_core\\p01_hospitaldatabase\\p01_hospitaldatabase\\services\\diagnoseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D35C8C71-6C74-4A82-BC55-450660195E19}|P01_HospitalDatabase\\P01_HospitalDatabase.csproj|solutionrelative:p01_hospitaldatabase\\services\\diagnoseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D35C8C71-6C74-4A82-BC55-450660195E19}|P01_HospitalDatabase\\P01_HospitalDatabase.csproj|d:\\my workflow\\github\\softuni\\ef_core\\p01_hospitaldatabase\\p01_hospitaldatabase\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D35C8C71-6C74-4A82-BC55-450660195E19}|P01_HospitalDatabase\\P01_HospitalDatabase.csproj|solutionrelative:p01_hospitaldatabase\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F239C98-8709-4E71-9801-3D171DD3F3A3}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|d:\\my workflow\\github\\softuni\\ef_core\\p01_hospitaldatabase\\p01_hospitaldatabase.data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F239C98-8709-4E71-9801-3D171DD3F3A3}|P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabase.data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B81A44B-988E-488F-8D4A-71F9F9663775}|P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|d:\\my workflow\\github\\softuni\\ef_core\\p01_hospitaldatabase\\p01_hospitaldatabase.data.models\\patientmedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DiagnoseService.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase\\Services\\DiagnoseService.cs",
               "RelativeDocumentMoniker": "P01_HospitalDatabase\\Services\\DiagnoseService.cs",
               "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase\\Services\\DiagnoseService.cs",
               "RelativeToolTip": "P01_HospitalDatabase\\Services\\DiagnoseService.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-28T19:21:58.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IConsoleReader.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase\\Console\\IConsoleReader.cs",
               "RelativeDocumentMoniker": "P01_HospitalDatabase\\Console\\IConsoleReader.cs",
@@ -79,12 +79,11 @@
               "RelativeToolTip": "P01_HospitalDatabase\\Console\\IConsoleReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T19:21:39.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T19:21:39.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ConsoleReader.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase\\Console\\ConsoleReader.cs",
               "RelativeDocumentMoniker": "P01_HospitalDatabase\\Console\\ConsoleReader.cs",
@@ -92,20 +91,20 @@
               "RelativeToolTip": "P01_HospitalDatabase\\Console\\ConsoleReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T19:21:29.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T19:21:29.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "HospitalContext.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\HospitalContext.cs",
               "RelativeDocumentMoniker": "P01_HospitalDatabase.Data\\HospitalContext.cs",
               "ToolTip": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase.Data\\HospitalContext.cs",
               "RelativeToolTip": "P01_HospitalDatabase.Data\\HospitalContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wCAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T11:05:26.468Z"
+              "WhenOpened": "2026-06-28T11:05:26.468Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -169,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StartUp.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\P01_HospitalDatabase\\P01_HospitalDatabase\\StartUp.cs",
               "RelativeDocumentMoniker": "P01_HospitalDatabase\\StartUp.cs",
@@ -177,8 +176,7 @@
               "RelativeToolTip": "P01_HospitalDatabase\\StartUp.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T10:38:10.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T10:38:10.717Z"
             }
           ]
         }

@@ -33,7 +33,7 @@ namespace P01_StudentSystem.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=BANKELI\\SQLEXPRESS;Database=StudentSystem;Trusted_Connection=True;Encrypt=False;");
+                optionsBuilder.UseSqlServer("Server=********;Database=StudentSystem;Trusted_Connection=True;Encrypt=False;");
             }
             base.OnConfiguring(optionsBuilder);
         }

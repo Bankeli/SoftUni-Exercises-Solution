@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj": {}
+    "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj": {}
   },
   "projects": {
-    "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj": {
+    "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\StudentSystem\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj",
+        "projectUniqueName": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\StudentSystem\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj",
         "projectName": "P01_StudentSystem.Data.Models",
-        "projectPath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj",
+        "projectPath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\StudentSystem\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj",
         "packagesPath": "C:\\Users\\yukib\\.nuget\\packages\\",
-        "outputPath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\P01_StudentSystem.Data.Models\\obj\\",
+        "outputPath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\StudentSystem\\P01_StudentSystem.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,20 +67,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -90,14 +76,14 @@
         }
       }
     },
-    "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj": {
+    "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj",
+        "projectUniqueName": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj",
         "projectName": "P01_StudentSystem.Data",
-        "projectPath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj",
+        "projectPath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj",
         "packagesPath": "C:\\Users\\yukib\\.nuget\\packages\\",
-        "outputPath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\P01_StudentSystem.Data\\obj\\",
+        "outputPath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\StudentSystem\\P01_StudentSystem.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -119,8 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj": {
-                "projectPath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj"
+              "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\StudentSystem\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj": {
+                "projectPath": "D:\\My WorkFlow\\Github\\SoftUni\\EF_CORE\\ENTITY_RELATION_EXERCISES\\StudentSystem\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj"
               }
             }
           }
@@ -151,20 +137,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

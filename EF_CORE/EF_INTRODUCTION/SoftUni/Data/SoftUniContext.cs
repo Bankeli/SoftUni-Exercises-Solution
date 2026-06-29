@@ -31,7 +31,7 @@ public partial class SoftUniContext : DbContext
     {
         if (!optionsBuilder.IsConfigured)
         {
-            optionsBuilder.UseSqlServer("Server=BANKELI-PC\\SQLEXPRESS;Database=SoftUni;Trusted_Connection=True;Encrypt=False;");
+            optionsBuilder.UseSqlServer("Server=**********;Database=SoftUni;Trusted_Connection=True;Encrypt=False;");
         }
     }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
